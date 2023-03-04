@@ -14,3 +14,5 @@ After cloning the repo, run ```npm install``` and then ```npm start``` in the te
 Update the data in the ```data.json``` file, as well as, add images to ```public/img/```.
 
 ### 4. Have fun
+
+![](about.png)
