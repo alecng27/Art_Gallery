@@ -29,6 +29,18 @@ export const Gallery = (props) => {
               : "Loading..."}
           </div>
         </div>
+
+        <div id="footer">
+        <div className="container text-center">
+          <p>
+            &copy; 2023 Alec Nguyen.{" "}
+            <a href="https://github.com/alecng27/Art_Gallery" rel="nofollow">
+              GitHub
+            </a>
+          </p>
+        </div>
+      </div>
+
       </div>
     </div>
   );

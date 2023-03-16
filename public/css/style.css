@@ -257,3 +257,15 @@ a:focus,
 .hover-bg:hover .hover-text {
   opacity: 1;
 }
+/* Footer Section*/
+#footer {
+  background: #ffffff00;
+  padding: 50px 0;
+}
+#footer p {
+  color: #ffffff;
+  font-size: 15px;
+}
+#footer a {
+  color: #4069d1;
+}
